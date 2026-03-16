@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project implements a 2-bit adder. It works by aceepting 2 inputs of a 2 bit number and output the sum of those 2 numbers
 
 ## How to test
 
-Explain how to use your project
+It can be tested by inputting the two 2-bit numbers you want added after you hit simulate.
 
 ## External hardware
 
